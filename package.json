@@ -1,0 +1,14 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "getting code enviornment installed on windows",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "author": "maxwell rediker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
